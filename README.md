@@ -8,6 +8,8 @@ It is very basic. You can do piping but don't use tty mode.
 
 Instruction:
 -Import the zip in Pega: Application->Distribution->Import
-Find the runcommand activity and run it.
+
+Find the "runcommand activity" and run it.
+A popup window appears where you can run your Linux commands:
 
 ![alt text](https://github.com/merlix1/xpegacli/blob/master/xpegacli.png)
